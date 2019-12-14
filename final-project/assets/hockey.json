@@ -1,0 +1,48 @@
+[
+    {
+        "1": "What's the name of an NHL team from our city? ",
+        "2": "What's the name of one of the greatest players ever to play on our team? ",
+        "3": "Which number does Connor McDavid wear? ",
+        "4": "What's the name of our arena? ",
+        "5": "Are we ever going to win the NHL championship again? "
+    },
+    {
+        "1": {
+            "a": "Flames",
+            "b": "Maple Leafs",
+            "c": "Oilers",
+            "d": "Canucks"
+        },
+        "2": {
+            "a": "Justin Trudeau",
+            "b": "Wayne Gretzky",
+            "c": "Tiger Woods",
+            "d": "Cristiano Ronaldo"
+        },
+        "3": {
+            "a": "97",
+            "b": "1147",
+            "c": "00",
+            "d": "32.5"
+        },
+        "4": {
+            "a": "Edmonton Arena",
+            "b": "Rexall Place",
+            "c": "NAIT Hockey Arena",
+            "d": "Rogers Place"
+        },
+        "5": {
+            "a": "Hell Yeah!!",
+            "b": "You must be joking!",
+            "c": "No man, we really suck!",
+            "d": "Hahaha funny!"
+        }
+    },
+    {
+        "1": "Oilers",
+        "2": "Wayne Gretzky",
+        "3": "97",
+        "4": "Rogers Place",
+        "5": "Hell Yeah!!"
+    }
+]

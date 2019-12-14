@@ -1,0 +1,48 @@
+[
+    {
+        "1": "How many periods are there in a basketball game? ",
+        "2": "Who won the NBA championship last year? ",
+        "3": "Michael Jordan is one of the greatest players of all time. Which number did he wear for the most part of his career? ",
+        "4": "Which team does LeBron James currently play for? ",
+        "5": "How many games does each team play in a regular NBA season? "
+    },
+    {
+        "1": {
+            "a": "three",
+            "b": "one",
+            "c": "four",
+            "d": "seven"
+        },
+        "2": {
+            "a": "Toronto Raptors",
+            "b": "Golden State Warriors",
+            "c": "Chicago Bulls",
+            "d": "LA Lakers"
+        },
+        "3": {
+            "a": "45",
+            "b": "23",
+            "c": "8",
+            "d": "117"
+        },
+        "4": {
+            "a": "Cleveland Cavaliers",
+            "b": "Miami Heat",
+            "c": "Toronto Raptors",
+            "d": "LA Lakers"
+        },
+        "5": {
+            "a": "9",
+            "b": "776",
+            "c": "82",
+            "d": "77"
+        }
+    },
+    {
+        "1": "four",
+        "2": "Toronto Raptors",
+        "3": "23",
+        "4": "LA Lakers",
+        "5": "82"
+    }
+]
